@@ -1,0 +1,135 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+div {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 2em;
+    color: black;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+
+.cover-page {
+background-color: #FF9B9B;
+height: 100vh;
+font-size: 50px;
+text-align: center;
+}
+
+.author {
+background-color: #FF9B9B ;
+background-size:contain;
+background-image: url("Picturrs/Ashish.jpg");
+background-position: center center;
+width: 100%;
+height: 600px;
+}
+
+.intro {
+    background: linear-gradient(#FF9B9B, #4b1346);
+    font-weight:normal;
+    font-size: 28px;
+    width: 100%;
+    height: 60vh;
+}
+
+.poemtitle {
+    background-color: #ffffff;
+    width: 100%;
+    height: 150px;
+}
+
+
+
+.poem1 {
+    background-image: url("Picturrs/night\ sky.png");
+    width: 100%;
+    height: 80vh;
+    color: white;
+}
+
+
+
+.poem2 {
+    background-image: url("Picturrs/deep\ sea.png");
+    width: 100%;
+    height: 80vh;
+    color: white;
+}
+
+.poem3 {
+    background-image: url("Picturrs/dark\ forest.png");
+    width: 100%;
+    height: 80vh;
+    color: white;
+}
+
+.poem4 {
+    background-image: url("Picturrs/moon.jpg");
+    width: 100%;
+    height: 80vh;
+    color: white;
+}
+
+.poem5 {
+    background-image: url("Picturrs/sunrise.jpg");
+    width: 100%;
+    height: 80vh;
+    color: white;
+}
+
+.poem6 {
+    background-image: url("Picturrs/loss.jpg");
+    width: 100%;
+    height: 80vh;
+    color: white;
+}
+
+.poem7 {
+    background-image: url("Picturrs/tree\ tok.jpg");
+    width: 100%;
+    height: 80vh;
+    color: white;
+}
+
+.poem8 {
+    background-image: url("Picturrs/stormm.jpg");
+    width: 100%;
+    height: 80vh;
+    color: white;
+}
+
+.poem9 {
+    background-image: url("Picturrs/dream.jpg");
+    width: 100%;
+    height: 80vh;
+    color: white;
+}
+
+.poem10 {
+    background-image: url("Picturrs/hardwork.jpg");
+    width: 100%;
+    height: 80vh;
+    color: white;
+}
+
+.outro {
+    background: linear-gradient(#4b1346, #FF9B9B);
+    font-weight:normal;
+    font-size: 28px;
+    width: 100%;
+    height: 30vh;
+}
